@@ -1,0 +1,146 @@
+2016-05-25 00:02:32,582 [Thread-2:1208] [blog.views:12] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-25 00:21:28,114 [Thread-2:3640] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-25 00:21:48,204 [Thread-2:8160] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-27 22:04:47,546 [Thread-31:18748] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-27 22:07:00,667 [Thread-63:10204] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-27 22:07:24,433 [Thread-67:19192] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-27 22:07:28,079 [Thread-90:3176] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-27 22:08:40,914 [Thread-113:11908] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-27 22:09:25,674 [Thread-2:19000] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-27 22:10:24,095 [Thread-23:3076] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-27 22:10:25,282 [Thread-42:18648] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-27 22:15:33,460 [Thread-61:8392] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-27 22:15:47,414 [Thread-78:13640] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-27 22:21:01,921 [Thread-2:14448] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-27 22:23:09,451 [Thread-3:17996] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-27 22:23:20,069 [Thread-17:18336] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-27 22:26:40,197 [Thread-23:18880] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-27 22:36:40,276 [Thread-39:18116] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-27 22:37:51,479 [Thread-49:6328] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-27 22:43:43,635 [Thread-52:6316] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-27 22:44:35,812 [Thread-53:1380] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-27 22:44:51,868 [Thread-63:12820] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-27 22:44:52,381 [Thread-73:15428] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-27 22:45:39,844 [Thread-83:12916] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-27 22:49:58,191 [Thread-93:9712] [blog.views:19] [views:index] [ERROR]- [Errno 2] No such file or directory: 'sss.txt'
+2016-05-29 15:31:16,779 [Thread-2:8416] [blog.views:34] [views:index] [ERROR]- u'date_pulish'
+2016-05-29 15:32:43,388 [Thread-4:38116] [blog.views:34] [views:index] [ERROR]- u'date_pulish'
+2016-05-29 15:32:44,135 [Thread-13:5956] [blog.views:34] [views:index] [ERROR]- u'date_pulish'
+2016-05-29 15:32:44,792 [Thread-22:5172] [blog.views:34] [views:index] [ERROR]- u'date_pulish'
+2016-05-29 15:33:39,164 [Thread-2:18336] [blog.views:35] [views:index] [ERROR]- u'date_pulish'
+2016-05-29 15:33:40,367 [Thread-3:8392] [blog.views:35] [views:index] [ERROR]- u'date_pulish'
+2016-05-29 15:34:21,569 [Thread-2:15068] [blog.views:36] [views:index] [ERROR]- u'date_pulish'
+2016-05-29 15:36:26,967 [Thread-2:8928] [blog.views:36] [views:index] [ERROR]- 'ArticleManager' object has no attribute 'distinct_date_list'
+2016-05-29 15:38:41,934 [Thread-2:2228] [blog.views:36] [views:index] [ERROR]- u'date_pulish'
+2016-05-29 15:38:46,910 [Thread-23:712] [blog.views:36] [views:index] [ERROR]- u'date_pulish'
+2016-05-29 15:42:06,494 [Thread-2:16528] [blog.views:36] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 15:45:13,296 [Thread-2:16424] [blog.views:36] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 15:45:41,292 [Thread-3:8912] [blog.views:36] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 15:46:15,194 [Thread-24:19396] [blog.views:36] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 15:49:32,348 [Thread-2:27708] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 15:49:48,605 [Thread-2:36080] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 15:52:15,687 [Thread-2:32012] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 15:52:52,924 [Thread-2:5528] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 15:58:48,302 [Thread-2:46464] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 15:59:10,161 [Thread-23:3748] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 16:01:34,367 [Thread-2:39072] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 16:09:10,155 [Thread-2:30052] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 16:16:27,865 [Thread-2:21708] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 16:42:55,948 [Thread-2:27276] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 16:43:46,769 [Thread-2:19772] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 16:45:13,132 [Thread-19:21112] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 16:45:17,977 [Thread-36:23172] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 16:46:49,885 [Thread-2:37436] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 16:47:05,157 [Thread-2:43744] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 16:48:00,861 [Thread-19:43616] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 16:48:00,864 [Thread-22:27040] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 16:48:36,345 [Thread-23:21716] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 16:49:29,328 [Thread-40:24660] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 16:49:53,801 [Thread-2:16460] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 16:50:46,664 [Thread-2:30056] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 16:51:29,496 [Thread-2:36980] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 16:52:10,098 [Thread-23:4560] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 17:05:28,908 [Thread-2:39700] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 17:06:53,684 [Thread-23:29548] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 17:06:54,694 [Thread-44:29184] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 17:06:55,253 [Thread-65:41168] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 17:06:55,660 [Thread-86:40432] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 17:06:56,013 [Thread-107:34128] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 17:07:29,874 [Thread-128:4412] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 17:07:29,877 [Thread-129:14840] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 17:07:29,878 [Thread-130:35532] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 17:07:49,655 [Thread-151:40120] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-29 23:57:15,417 [Thread-2:43292] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-30 00:13:36,683 [Thread-2:17160] [blog.views:35] [views:index] [ERROR]- 'ascii' codec can't encode characters in position 5-8: ordinal not in range(128)
+2016-05-30 22:12:48,744 [Thread-2:29808] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:12:49,542 [Thread-15:43480] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:12:49,986 [Thread-21:3296] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:12:55,430 [Thread-28:44516] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:13:15,796 [Thread-29:4476] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:13:16,413 [Thread-35:42484] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:13:54,918 [Thread-12:44812] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:14:10,365 [Thread-13:35744] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:17:18,204 [Thread-19:42744] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:17:21,812 [Thread-29:34432] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:17:22,332 [Thread-39:7392] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:18:11,203 [Thread-50:4372] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:21:59,938 [Thread-25:30276] [blog.views:52] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:22:04,167 [Thread-26:5792] [blog.views:52] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:22:05,825 [Thread-27:26996] [blog.views:52] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:27:48,661 [Thread-2:31624] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:29:31,947 [Thread-3:43072] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:29:33,075 [Thread-16:40516] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:29:37,413 [Thread-22:31996] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:30:59,825 [Thread-34:32084] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:31:04,515 [Thread-35:5428] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:31:06,667 [Thread-36:25572] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:34:11,127 [Thread-37:13472] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:34:12,015 [Thread-47:34204] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:34:13,951 [Thread-57:3952] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:34:16,328 [Thread-58:28204] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:36:00,710 [Thread-59:29128] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:36:01,638 [Thread-69:43836] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:36:02,706 [Thread-79:26116] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:36:08,950 [Thread-81:26320] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:36:36,131 [Thread-2:17496] [blog.views:51] [views:archive] [ERROR]- Cannot resolve keyword 'date_publish_icontains' into field. Choices are: category, category_id, click_count, comment, content, date_publish, desc, id, is_recommend, tag, title, user, user_id
+2016-05-30 22:41:39,779 [Thread-15:25428] [blog.views:51] [views:archive] [ERROR]- unsupported operand type(s) for +: 'NoneType' and 'str'
+2016-05-30 22:46:51,201 [Thread-2:25756] [blog.views:51] [views:archive] [ERROR]- unsupported operand type(s) for +: 'NoneType' and 'str'
+2016-05-30 22:54:33,378 [Thread-34:29660] [blog.views:40] [views:archive] [ERROR]- unsupported operand type(s) for +: 'NoneType' and 'str'
+2016-05-30 22:57:04,301 [Thread-35:872] [blog.views:40] [views:archive] [ERROR]- unsupported operand type(s) for +: 'NoneType' and 'str'
+2016-06-01 22:09:54,950 [Thread-42:19784] [blog.views:75] [views:article] [ERROR]- global name 'CommentForm' is not defined
+2016-06-01 22:11:25,223 [Thread-43:21552] [blog.views:75] [views:article] [ERROR]- global name 'CommentForm' is not defined
+2016-06-01 22:11:33,002 [Thread-55:34292] [blog.views:75] [views:article] [ERROR]- global name 'CommentForm' is not defined
+2016-06-01 22:12:03,118 [Thread-63:13620] [blog.views:75] [views:article] [ERROR]- global name 'CommentForm' is not defined
+2016-06-01 22:12:07,803 [Thread-64:3860] [blog.views:75] [views:article] [ERROR]- global name 'CommentForm' is not defined
+2016-06-01 22:12:11,233 [Thread-65:11464] [blog.views:75] [views:article] [ERROR]- global name 'CommentForm' is not defined
+2016-06-01 22:16:07,615 [Thread-66:39248] [blog.views:75] [views:article] [ERROR]- global name 'CommentForm' is not defined
+2016-06-01 22:17:57,588 [Thread-67:15408] [blog.views:75] [views:article] [ERROR]- global name 'CommentForm' is not defined
+2016-06-01 22:18:25,881 [Thread-140:10428] [blog.views:75] [views:article] [ERROR]- global name 'CommentForm' is not defined
+2016-06-01 22:32:03,213 [Thread-184:39064] [blog.views:75] [views:article] [ERROR]- global name 'CommentForm' is not defined
+2016-06-01 22:32:04,069 [Thread-202:27200] [blog.views:75] [views:article] [ERROR]- global name 'CommentForm' is not defined
+2016-06-01 22:32:10,414 [Thread-243:43844] [blog.views:75] [views:article] [ERROR]- global name 'CommentForm' is not defined
+2016-06-01 22:32:26,490 [Thread-331:24764] [blog.views:75] [views:article] [ERROR]- global name 'CommentForm' is not defined
+2016-06-01 22:32:54,141 [Thread-349:9180] [blog.views:75] [views:article] [ERROR]- global name 'CommentForm' is not defined
+2016-06-01 22:33:02,201 [Thread-367:29064] [blog.views:75] [views:article] [ERROR]- global name 'CommentForm' is not defined
+2016-06-01 22:33:05,877 [Thread-386:33624] [blog.views:75] [views:article] [ERROR]- global name 'CommentForm' is not defined
+2016-06-01 22:33:52,819 [Thread-404:23400] [blog.views:75] [views:article] [ERROR]- global name 'CommentForm' is not defined
+2016-06-01 22:33:53,734 [Thread-422:24152] [blog.views:75] [views:article] [ERROR]- global name 'CommentForm' is not defined
+2016-06-01 22:33:59,428 [Thread-440:19064] [blog.views:75] [views:article] [ERROR]- global name 'CommentForm' is not defined
+2016-06-02 00:20:56,490 [Thread-26:24436] [blog.views:110] [views:comment_post] [ERROR]- 'username' is an invalid keyword argument for this function
+2016-06-02 00:21:09,023 [Thread-28:44724] [blog.views:110] [views:comment_post] [ERROR]- 'username' is an invalid keyword argument for this function
+2016-06-02 21:33:29,552 [Thread-32:44804] [blog.views:110] [views:comment_post] [ERROR]- 'username' is an invalid keyword argument for this function
+2016-06-02 21:39:09,743 [Thread-84:30364] [blog.views:161] [views:do_login] [ERROR]- argument of type 'NoneType' is not iterable
+2016-06-02 21:39:11,677 [Thread-85:16836] [blog.views:161] [views:do_login] [ERROR]- argument of type 'NoneType' is not iterable
+2016-06-02 21:39:12,381 [Thread-86:29904] [blog.views:161] [views:do_login] [ERROR]- argument of type 'NoneType' is not iterable
+2016-06-02 21:43:07,183 [Thread-102:19424] [blog.views:161] [views:do_login] [ERROR]- argument of type 'NoneType' is not iterable
+2016-06-02 21:43:08,068 [Thread-103:16952] [blog.views:161] [views:do_login] [ERROR]- argument of type 'NoneType' is not iterable
+2016-06-02 21:44:03,155 [Thread-110:42028] [blog.views:161] [views:do_login] [ERROR]- argument of type 'NoneType' is not iterable
+2016-06-02 21:44:03,799 [Thread-111:24372] [blog.views:161] [views:do_login] [ERROR]- argument of type 'NoneType' is not iterable
+2016-06-02 21:44:04,348 [Thread-112:31540] [blog.views:161] [views:do_login] [ERROR]- argument of type 'NoneType' is not iterable
+2016-06-02 21:45:23,128 [Thread-131:3012] [blog.views:110] [views:comment_post] [ERROR]- 'username' is an invalid keyword argument for this function
+2016-06-02 21:53:16,821 [Thread-154:16192] [blog.views:110] [views:comment_post] [ERROR]- 'username' is an invalid keyword argument for this function
+2016-06-02 22:09:17,688 [Thread-8:42476] [blog.views:110] [views:comment_post] [ERROR]- 'username' is an invalid keyword argument for this function
+2016-06-02 22:50:58,529 [Thread-10:46908] [blog.views:110] [views:comment_post] [ERROR]- 'username' is an invalid keyword argument for this function
+2016-06-02 22:51:04,552 [Thread-12:6904] [blog.views:110] [views:comment_post] [ERROR]- 'username' is an invalid keyword argument for this function
+2016-06-02 23:05:12,538 [Thread-21:13568] [blog.views:111] [views:comment_post] [ERROR]- 'username' is an invalid keyword argument for this function
+2016-06-02 23:06:11,012 [Thread-41:1380] [blog.views:111] [views:comment_post] [ERROR]- 'username' is an invalid keyword argument for this function
